@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hey 👋, I'm Prakhar
 
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning Data Structures and Algorithms, ReactJS and PyTorch
 - 👯 I’m looking to collaborate on MERN Projects 
 - 🤔 I’m looking for help with getting started in Deep Learning
 - 📫 How to reach me: pdhama161@gmail.com
-
-
-[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar-161&show_icons=true)](https://github.com/prakhar-161/github-readme-stats)
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -19,4 +16,6 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MATERIAL-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
+[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar-161&show_icons=true&theme=algolia)](https://github.com/prakhar-161/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-161&layout=compact&theme=algolia)](https://github.com/prakhar-161/github-readme-stats)
 
