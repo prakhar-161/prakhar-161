@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Prakhar
 
-<h3>Talking about Personal Stuffs</h3>
+<h3>My Tech Stack Updates</h3>
 
 
 - 🔭 I’m currently working on MERN Stack Projects
