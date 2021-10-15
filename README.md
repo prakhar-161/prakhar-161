@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on MERN Stack Projects
-- 🌱 I’m currently learning Data Structures and Algorithms, ReactJS and PyTorch
+- 🌱 I’m currently learning Data Structures and Algorithms and PyTorch
 - 👯 I’m looking to collaborate on MERN Projects 
-- 🤔 I’m looking for help with getting started in Deep Learning
+- 🤔 I’m looking for help with Deep Learning
 - 📫 How to reach me: pdhama161@gmail.com
 
 
