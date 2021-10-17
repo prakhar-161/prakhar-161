@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms and PyTorch
 - 👯 I’m looking to collaborate on MERN Projects 
 - 🤔 I’m looking for help with Deep Learning
+- 💬 Ask me about anything, I am happy to help :)
 - 📫 How to reach me: pdhama161@gmail.com
 
 
