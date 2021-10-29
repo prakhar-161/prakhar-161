@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 
 
-- 🔭 I’m currently working on MERN Stack Projects
+- 🔭 I’m currently working on <a href="https://github.com/prakhar-161/OhMyNotes-App" /></a>
 - 🌱 I’m currently learning Data Structures and Algorithms and PyTorch
 - 👯 I’m looking to collaborate on MERN Projects 
 - 🤔 I’m looking for help with Deep Learning
