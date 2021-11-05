@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on MERN Projects 
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Web Dev, I am happy to help :)
+- ⭐ I have a keen interest in studying about finance and web technologies
 - 📫 How to reach me: pdhama161@gmail.com
 
 
