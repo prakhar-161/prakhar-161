@@ -3,12 +3,11 @@
 <h3>About Me</h3>
 
 
-- 🔭 I’m currently working on MERN Stack Projects
-- 🌱 I’m currently learning Data Structures and Algorithms and PyTorch
+- 🔭 I’m currently working on React projects 
+- 🌱 I’m currently learning DSA and Data analytics 
 - 👯 I’m looking to collaborate on MERN Projects 
-- 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Web Dev, I am happy to help :)
-- ⭐ I have a keen interest in studying about finance and web technologies
+- ⭐ I have a keen interest in studying about finance topics.
 - 📫 How to reach me: pdhama161@gmail.com
 
 
