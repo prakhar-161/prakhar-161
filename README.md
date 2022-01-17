@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on React projects 
-- 🌱 I’m currently learning DSA and Data analytics 
+- 🌱 I’m currently learning DSA and Data science 
 - 👯 I’m looking to collaborate on MERN Projects 
 - 💬 Ask me about Web Dev, I am happy to help :)
 - ⭐ I have a keen interest in studying about finance topics.
