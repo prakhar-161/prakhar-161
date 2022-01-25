@@ -4,10 +4,10 @@
 
 
 - 🔭 I’m currently working on React projects 
-- 🌱 I’m currently learning DSA and Data science 
+- 🌱 I’m currently learning DSA and Machine Learning
 - 👯 I’m looking to collaborate on MERN Projects 
 - 💬 Ask me about Web Dev, I am happy to help :)
-- ⭐ I have a keen interest in studying about finance topics.
+- ⭐ I have a keen interest in studying about finance and new technologies
 - 📫 How to reach me: pdhama161@gmail.com
 
 
