@@ -1,4 +1,4 @@
-### Hey 👋, I'm Prakhar
+### Hey 👋, I'm Sunny
 
 <h3>About Me</h3>
 
