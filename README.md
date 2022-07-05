@@ -3,9 +3,9 @@
 <h3>About Me</h3>
 
 
-- 🔭 I’m currently working on GraphQL Projects 
+- 🔭 I’m currently working on MERN Projects 
 - 🌱 I’m currently learning DSA and Machine Learning
-- 👯 I’m looking to collaborate on MERN Projects 
+- 👯 I’m looking to collaborate on Web development projects 
 - 💬 Ask me about Web Dev, I am happy to help :)
 - ⭐ I have a keen interest in studying about finance and new technologies
 - 📫 How to reach me: pdhama161@gmail.com
