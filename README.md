@@ -3,11 +3,11 @@
 <h3>About Me</h3>
 
 
-- 🔭 I’m currently working on MERN Projects 
-- 🌱 I’m currently learning DSA and Machine Learning
-- 👯 I’m looking to collaborate on Web development projects 
+- 🔭 I’m currently working on Machine Learning projects 
+- 🌱 I’m currently learning DSA and DevOps
+- 👯 I’m looking to collaborate on Web Development projects 
 - 💬 Ask me about Web Dev, I am happy to help :)
-- ⭐ I have a keen interest in studying about finance and new technologies
+- ⭐ I have a keen interest in studying about FinTech.
 - 📫 How to reach me: pdhama161@gmail.com
 
 
