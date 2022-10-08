@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 
 
-- 🔭 I’m currently working on Machine Learning projects 
+- 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning DSA and DevOps
 - 👯 I’m looking to collaborate on Web Development projects 
 - 💬 Ask me about Web Dev, I am happy to help :)
